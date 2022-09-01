@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicehabitzreuter" alt="alicehabitzreuter" /></a> </p>
 
-- 🔭 I’m currently working on **Facil123** at ASSEINFO
+- 🔭 I’m currently working on **Facil123** at AgilityFeat
 
 - 🌱 I’m learning **Ruby on Rails**
 
