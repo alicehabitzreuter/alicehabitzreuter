@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working at AgilityFeat
 
-- 🌱 I’m learning **Ruby on Rails**
-
 - 📫 How to reach me **habitzreuter21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
